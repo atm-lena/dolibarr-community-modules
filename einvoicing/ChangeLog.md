@@ -3,6 +3,7 @@
 ## 1.0.5
 
 NEW: Add Hook "beforeEinvoiceXmlBuild" in generateXML() function for CII Protocol - BT-13.
+FIX: Backport #680 - The tables joined into the lists of Dolibarr carry an index (einvoicing_extlinks, einvoicing_lifecycle_msg, einvoicing_routing).
 
 ## 1.0.4
 
